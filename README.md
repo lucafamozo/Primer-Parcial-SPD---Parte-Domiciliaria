@@ -1,5 +1,5 @@
 # Parcial 1 SPD: Parte Domiciliaria 
-![](https://hackmd.io/_uploads/S1QFFImS3.png)
+![](https://hackmd.io/_uploads/HkzmqLQSn.png)
 
 ## :space_invader: Alumno:
 ### Famozo, Luca
