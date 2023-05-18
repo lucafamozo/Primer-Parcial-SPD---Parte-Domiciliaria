@@ -1,5 +1,5 @@
 # Parcial 1 SPD: Parte Domiciliaria 
-![](https://hackmd.io/_uploads/HkzmqLQSn.png)
+![](https://github.com/lucafamozo/Primer-Parcial-SPD---Parte-Domiciliaria/blob/master/img/montacargas_parcial_spd.png)
 
 ## :space_invader: Alumno:
 ### Famozo, Luca
